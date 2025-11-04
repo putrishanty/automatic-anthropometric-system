@@ -42,7 +42,8 @@ const char* password = "YourPassword";
 4. Upload the code to your ESP32
 5. Open the Blynk mobile app or web dashboard
 6. Connect your device and start measuring!
-[![Screenshot of the Arduino IDE showing the main sketch for the system](assets/source-code.png)]
+
+![Screenshot of the Arduino IDE showing the main sketch for the system](assets/source-code.png)
 
 ## 🧪 Usage
 1. Turn on the device and connect to Wi-Fi.
@@ -54,4 +55,5 @@ const char* password = "YourPassword";
    - Allow you to manually input the baby’s age
    - Automatically calculate BMI and growth category
 5. View data in real-time from your phone or browser.
-[![Example of the Blynk Web Dashboard](assets/dashboard.png)]
+
+![Example of the Blynk Web Dashboard](assets/dashboard.png)
